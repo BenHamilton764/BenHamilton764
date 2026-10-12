@@ -8,13 +8,6 @@ I enjoy applying mathematics, statistics, and programming to solve real-world pr
 
 I am interested in using data-driven methods to extract insights from complex datasets. My work has involved statistical modelling, machine learning, simulation, sports analytics, and topological data analysis.
 
-## Current Projects
-
-- Spatial Analysis of Tornadoes
-- COVID-19 Analysis using Ball Mapper
-- Football Analytics with StatsBomb Open Data
-- Association Rule Mining and Network Analysis
-
 ## Currently Learning
 
 - Machine Learning
