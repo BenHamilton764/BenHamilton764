@@ -1,66 +1,20 @@
 # Hi, I'm Ben Hamilton
 
-Data Analytics student at Queen's University Belfast.
+Data Analytics Masters student with interests in data science, machine learning, statistical modelling, and sports analytics.
 
-I enjoy applying mathematics, statistics, and programming to solve real-world problems. My interests include data science, machine learning, sports analytics, and topological data analysis.
+## Skills
+Python • R • SAS • SQL
 
-## About Me
-
-I am interested in using data-driven methods to extract insights from complex datasets. My work has involved statistical modelling, machine learning, simulation, sports analytics, and topological data analysis.
-
-## Currently Learning
-
-- Machine Learning
-- Network Analysis
-- Data Visualisation
-- Advanced Statistical Modelling
-- Git and GitHub
-
-## Technical Skills
-
-### Programming Languages
-- Python
-- R
-- SAS
-- SQL
-
-### Libraries and Frameworks
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- NetworkX
-- mlxtend
-
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-
-## Featured Projects
-
-### Solo Projects
+## Projects
+### Solo
 - Spatial Analysis of Tornadoes
 - COVID-19 Ball Mapper Analysis
-- StatsBomb Football Data Analysis
+- StatsBomb Football Analytics
 
-### Group Projects
-- Belfast Bike Share System Simulation
-- MLB Player Performance Analysis
-- Cholesterol Linear Models
-
-## Areas of Interest
-
-- Data Science
-- Machine Learning
-- Statistical Modelling
-- Sports Analytics
-- Topological Data Analysis
-- Data Visualisation
+### Group
+- Belfast Bike Share Simulation
+- MLB Performance Analysis
 
 ## Contact
-
-- Email: [benhamilton925@gmail.com]
+Email: [benhamilton925@gmail.copm]
 
