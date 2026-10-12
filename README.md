@@ -8,12 +8,13 @@ Python • R • SAS • SQL
 ## Projects
 ### Solo
 - Spatial Analysis of Tornadoes
-- COVID-19 Ball Mapper Analysis
+- Traffic Collision in Fermanagh Analysis
 - StatsBomb Football Analytics
 
 ### Group
 - Belfast Bike Share Simulation
 - MLB Performance Analysis
+- COVID-19 Ball Mapper Analysis
 
 ## Contact
 Email: [benhamilton925@gmail.copm]
