@@ -11,10 +11,10 @@ Python • R • SAS • SQL
 - Traffic Collision in Fermanagh Analysis
 - StatsBomb Football Analytics
 
-### Group
-- Belfast Bike Share Simulation
-- MLB Performance Analysis
-- COVID-19 Ball Mapper Analysis
+### Group (contribution)
+- Belfast Bike Share Simulation (Extension)
+- MLB Performance Analysis (Weighted variables)
+- COVID-19 Ball Mapper Analysis (Ball mapper implimentation and analysis)
 
 ## Contact
 Email: [benhamilton925@gmail.copm]
